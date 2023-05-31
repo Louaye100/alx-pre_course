@@ -1,2 +1,2 @@
-my first readme updated
-i am a software engineering
+
+echo"ALX school"
