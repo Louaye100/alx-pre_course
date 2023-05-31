@@ -1,1 +1,2 @@
-readme
+
+echo"ALX school"
