@@ -1,1 +1,2 @@
-alx ::W
+#!/bin/bash
+echo "ALX School"
